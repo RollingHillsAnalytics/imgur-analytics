@@ -1,12 +1,12 @@
 ## Analysis of Imgur Gallery Images
 
-#### Summary
+### Summary
 
 This is an analysis of the meta data for 525 images found in the Imgur gallery between 5/2/2019 and 5/4/2019. The data was obtained using Python scripts calling the Imgur API. The analysis goes through a few iterations to identify a pattern in the data and come up with a recommendation.
 
 
 
-#### The Technical Part
+### The Technical Part
 
 Imgur provides an open API to access its data and automate some tasks. For this exercise, I have used the data extraction functions for the gallery, the images, the albums and the tags. The data is stored locally in text files.
 
@@ -20,7 +20,7 @@ From the data file, I used common Python libraries (*matplotlib*, *numpy* and *p
 
 
 
-#### Data Analysis
+### Data Analysis
 
 The Imgur API makes several data points available for each image of the gallery. For this analysis, I retrieved the following data:
 
@@ -97,7 +97,7 @@ Putting some numbers on this:
 
 
 
-#### Recommendation
+### Recommendation
 
 The Imgur gallery images marked as "image" are getting more views than those marked as "album". This also means those images are generating more ad revenue.
 
