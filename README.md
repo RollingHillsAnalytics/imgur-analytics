@@ -42,7 +42,7 @@ There are two clusters of data, and we should try to discover what this represen
 
 *Figure 1*
 
-![imgur1](E:\GitHub\imgur-analytics\assets\imgur1a.png)
+![imgur1](./assets/imgur1a.png)
 
 
 
@@ -54,7 +54,7 @@ In order to highlight this ratio, let's add trend lines on the two data clusters
 
 *Figure 2*
 
-![imgur2](E:\GitHub\imgur-analytics\assets\imgur2a.png)
+![imgur2](./assets/imgur2a.png)
 
 
 
@@ -68,7 +68,7 @@ Let's try to find what the images in the upper cluster have in common. The numbe
 
 *Figure 3*
 
-![imgur3](E:\GitHub\imgur-analytics\assets\imgur3a.png)
+![imgur3](./assets/imgur3a.png)
 
 
 
@@ -82,7 +82,7 @@ Let's go back to the original graph, but this time the color of each data elemen
 
 *Figure 4*
 
-![imgur4](E:\GitHub\imgur-analytics\assets\imgur4a.png)
+![imgur4](./assets/imgur4a.png)
 
 
 
