@@ -34,7 +34,7 @@ The scenario I will use is the following: assuming that most of Imgur revenue co
 
 Because we are interested in the view count, it makes sense to start by looking at the relationship between views and other data points. For example: views per comment count, views per tag count, views per length of the title, etc.
 
-Fast forwarding this process a bit, the graph of views per point seems to show an interesting pattern (figure 1) . The combination of size and color represents the number of comments for this image.
+The graph of views per point seems to show an interesting pattern (figure 1) . The combination of size and color represents the number of comments for this image.
 
 There are two clusters of data, and we should try to discover what this represents.
 
