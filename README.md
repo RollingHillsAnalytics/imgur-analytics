@@ -105,7 +105,7 @@ Interestingly, the vast majority of albums contain a single image. This is likel
 
 It is not clear why "image" uploads are getting more views, but they are. A more in-depth analysis performed by Imgur might be able to determine the reason for this.
 
-However, it seems a quick win might be as simple as finding where the uploads are being set as "album", and make sure single-image albums are recorded as "image".
+However, it seems a quick win might be as simple as finding where the uploads are being set as "album", and make sure single-image albums are recorded as "image". This would alter the viewing behavior, increase the view count, which in turn increases the ad displays and the ad revenue.
 
 
 
