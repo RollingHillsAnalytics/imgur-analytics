@@ -46,7 +46,7 @@ There are two clusters of data, and we should try to discover what this represen
 
 
 
-The count of views increases over time, and images that were uploaded more recently will have fewer views than images uploaded a longer time ago. However, I am making the assumption that the ratio of views per point will remain constant for a given image, because this is an intrinsic value tied to the image itself. I call this ratio the "<u>reaction score</u>" of an image.
+The count of views increases over time, and images that were uploaded more recently will have fewer views than images uploaded earlier. However, I am making the assumption that the ratio of views per point will remain constant for a given image, because this is an intrinsic value tied to the image itself. I call this ratio the "<u>reaction score</u>" of an image.
 
 In order to highlight this ratio, let's add trend lines on the two data clusters (figure 2).
 
